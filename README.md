@@ -129,7 +129,7 @@
 
 > {{projectUrl}}ois/order/getAuth?appKey=WAIT_HYECN&appSecret=cda26d9311074549ba3ae8e832b66a02
 
-成功响应demo   哲盟提供的代码demo 中的getToken 方法使用该接口返回的token 需要解析token
+成功响应demo   提供的代码demo 中的getToken 方法使用该接口返回的token 需要解析token
 
 ```json
 {
